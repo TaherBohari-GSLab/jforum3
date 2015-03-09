@@ -255,7 +255,7 @@
             <plugin>
                      <groupId>org.jacoco</groupId>
                      <artifactId>jacoco-maven-plugin</artifactId>
-                     <version>${jacoco.version}</version>
+                     <version>1.0.18</version>
                      <executions>
                               <execution>
                                        <goals>
